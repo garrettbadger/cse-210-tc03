@@ -6,7 +6,7 @@ number = random.randint(0, 100)
 def random(number):
     guess = -1
     while guess != number:
-        guess = input("What is your guess? :")
+        guess = int(input("What is your guess? :"))
         if guess > number:
             print("Your guess is too high!")
         elif guess < number:
