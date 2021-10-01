@@ -6,7 +6,6 @@ from random_game import number_game
 print('Welcome to our collaborative program')
 
 rowley_message()
-
 garrettbadger()
 my_message()
 my_statement()
