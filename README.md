@@ -1,6 +1,10 @@
 # cse-210-tc03
 For the week 3 team challenge
 
+Corey Yeaman 
+I am a contortionist and i can do 10+ voice imoressions and I love chickens.
+
+
 Stewart Rowley
 
 I am from Walla Walla, Washington. I am marrried. I am Software engineering major.
@@ -17,4 +21,3 @@ Garrett Badger
 I am an Idahoan and have been for my entire life. I love to go to camoing and hiking with friends and family. 
 I also love anything that goes fast, especially cars. I like to think of myself as an adventurous individual. 
  
-
